@@ -1,6 +1,6 @@
 +++
 date = '2025-06-22T21:09:09-06:00'
-draft = true
+draft = false
 title = 'Why blogging in 2025?'
 +++
 
